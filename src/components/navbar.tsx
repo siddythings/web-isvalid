@@ -50,9 +50,9 @@ export function Navbar() {
           <Link href="#" className="hover:text-gray-900 text-muted-foreground text-sm">
             Features
           </Link>
-          <Link href="#" className="hover:text-gray-900 text-muted-foreground text-sm">
+          {/* <Link href="#" className="hover:text-gray-900 text-muted-foreground text-sm">
             Pricing
-          </Link>
+          </Link> */}
           <Link href="#" className="hover:text-gray-900 text-muted-foreground text-sm">
             Contact
           </Link>
